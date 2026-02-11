@@ -4,7 +4,7 @@ let heartsInterval;
 let heartsSlowInterval;
 
 
-const allowedNames = ["John","Kamila"];
+const allowedNames = ["Kamila"];
 
 function createHeart() {
   const heart = document.createElement("div");
@@ -43,7 +43,7 @@ const slideshow = document.getElementById("slideshow");
 const fadeWhite = document.getElementById("fadeWhite");
 const loveMessage = document.getElementById("loveMessage");
 
-const messageText = "Every moment with you is a treasure. \n It would be the greatest honour to spend the rest of my life \n filling up the chest with lots more memories of \n My world,my sweet pretty wife, moj skarbie.\n Kamila";
+const messageText = "Every moment with you is a treasure. \n It would be the greatest honour to spend the rest of my life \n filling up the chest with lots more memories of \n My world,my sweet pretty wife, moj skarbie.\n Kamila🌹 \n Happy Valentine's day❤️💍";
 
 /* Click chest */
 chest.addEventListener("click",()=>{
